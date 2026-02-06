@@ -3,7 +3,8 @@
 
 
 ## About Platformer
-It's a small game, the first game that I fully ended, it's not the best, but I am learning, that's the main goal.
+It's a small game, the first game that I fully made from the begining to the end.
+It could be bugged, or the volume slider refuse to act.
 
 
 ## Sword weapon
@@ -23,7 +24,7 @@ There are several game mechanics, it's not needed to know, but you can have some
 
  - Chest heals you, but if you have full health, it gives you power.
  
- - The damage you deal to an enemy when you collide is equal to your damage stat plus 100. If he is still alive, you get damaged.
+ - The damage you deal to an enemy when you collide is equal to your damage stat plus 100. If he is still alive - you the one who gets damaged.
  
  - Dash is working only with a sword.
  
@@ -31,7 +32,7 @@ There are several game mechanics, it's not needed to know, but you can have some
  
  - Sword slows bullets and, next hit, destroys them.
  
- - The yellow bar under the enemy health bar is attack cooldown, it's not 100% accurate because some attacks shoot more bullets.
+ - The yellow bar under the enemy health bar is attack cooldown.
 
 
 ## Controls
@@ -39,9 +40,7 @@ There are several game mechanics, it's not needed to know, but you can have some
 
 
 ## Multiplayer
-Multiplayer is hard for me. I want to do it, it fits perfectly to have it in this game, but I don't know what's going on in online games.
-
-If I ever update this game, it'll be a multiplayer update.
+Multiplayer is hard, I don't think it's good idea to continue this, but I tried to do this.
 
 
 # Download Link
