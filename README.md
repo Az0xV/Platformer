@@ -48,5 +48,3 @@ https://www.dropbox.com/scl/fi/2nejixd506sezgeg1ya6y/Platformer0.7.zip?rlkey=xw4
 
 How to download in 3 steps:
 https://github.com/Az0xV/Az0xV/blob/main/README.md#how-to-download-a-game
-
-How to download in 3 steps: https://github.com/Az0xV/Az0xV/blob/main/README.md#how-to-download-a-game
