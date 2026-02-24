@@ -4,7 +4,6 @@
 
 ## About Platformer
 It's a small game, the first game that I fully made from the begining to the end.
-It could be bugged, or the volume slider refuse to act.
 
 
 ## Sword weapon
