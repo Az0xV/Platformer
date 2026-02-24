@@ -21,7 +21,7 @@ I also included a laser in this game. While it is not as effective on a keyboard
 ## Mechanics
 There are several game mechanics, it's not needed to know, but you can have some questions that this should answer:
 
- - Chest heals you, but if you have full health, it gives you power.
+ - Chest heals you, but if you have full health, it gives you power. If you have one less health, the power it gives is halfed.
  
  - The damage you deal to an enemy when you collide is equal to your damage stat plus 100. If he is still alive - you the one who gets damaged.
  
