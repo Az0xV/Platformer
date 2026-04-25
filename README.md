@@ -38,7 +38,7 @@ There are several game mechanics, it's not needed to know, but you can have some
 ![{78B2FAC2-83CD-4318-8FAA-B141238422FC}](https://github.com/user-attachments/assets/2ba7c1ce-1e5f-4c0e-b29a-b81f81673c76)
 
 # Download Link
-https://www.dropbox.com/scl/fi/2nejixd506sezgeg1ya6y/Platformer0.7.zip?rlkey=xw42e53w3j7mtp7aqjq1e94g4&st=owdmxy9e&dl=1
+https://www.dropbox.com/scl/fi/t1ahckf6r4pspeibapma2/Platformer.zip?rlkey=96wv2uqaj9ounpo34ap47x0k5&st=s4oiajfg&dl=1
 
 How to download in 3 steps:
 https://github.com/Az0xV/Az0xV/blob/main/GAMEDOWNLOAD.md
